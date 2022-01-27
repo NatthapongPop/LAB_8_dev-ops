@@ -1,6 +1,6 @@
 name: deploy prod 
-on: 
-	push:
+on:
+  push:
     branches:
       - prod
 
